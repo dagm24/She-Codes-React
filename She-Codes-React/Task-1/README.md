@@ -17,10 +17,16 @@ This is a simple, web-based calculator application that allows users to perform 
 ## Project Structure
 
 She-Codes-React/ 
-       ├── Task 1/ │ 
-                ├── index.html 
-                ├── styles.css 
+
+       ├── Task 1/
+
+
+                ├── index.html
+
+                ├── styles.css
+
                 ├── script.js 
+                
                 └── README.md 
                 
 
@@ -40,5 +46,5 @@ She-Codes-React/
 3. **Open index.html in Your Browser**:
 
    ```bash
-  open index.html
+   open index.html
 
