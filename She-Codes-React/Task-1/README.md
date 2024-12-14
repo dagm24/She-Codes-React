@@ -1,8 +1,6 @@
 # Simple Calculator Application
 
-This is a simple, web-based calculator application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It includes a clean and responsive user interface built with **HTML**, **CSS**, and **JavaScript**.
-
----
+This is a simple, web-based calculator application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It includes a clean and responsive user interface built with HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -12,48 +10,41 @@ This is a simple, web-based calculator application that allows users to perform 
 - **Error Handling**: Displays "Error" for invalid inputs and handles division by zero.
 - **Responsive Design**: Works seamlessly on mobile and desktop devices.
 
----
-
 ## Project Structure
 
-    She-Codes-React/ 
+She-Codes-React/ 
 
-       ├── Task 1/
+   ├── Task 1/
 
-                ├── index.html
+            ├── index.html
 
-                ├── styles.css
+            ├── styles.css
 
-                ├── script.js 
+            ├── script.js 
 
-                └── README.md 
+            └── README.md 
 
-                └── images/
-                      
-                      └── calculator-screenshot.png
-                
-
----
-
+            └── images/
+                  
+                  └── calculator-screenshot.png
 ## How to Run the Project Locally
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/dagm24/She-Codes-React.git
+## How to Run the Project Locally
 
-2. **Navigate to the Task 1 Folder**:
+2. **Navigate to the Task 1 Folder:**:
 
    ```bash
    cd She-Codes-React/Task 1
-
 3. **Open index.html in Your Browser**:
 
    ```bash
    open index.html
+## Screenshot
 
-### Screenshot of the Calculator
-
-Here's how the calculator looks:
+Here's a screenshot of the calculator in action:
 
 ![Calculator Screenshot](images/calculator-screenshot.png)
-
