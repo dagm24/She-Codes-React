@@ -31,15 +31,14 @@ She-Codes-React/
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/dagm24/She-Codes-React.git
-Navigate to the Task 1 Folder:
 
-bash
-Copy code
-cd She-Codes-React/Task 1
-Open index.html in Your Browser:
+2. **Navigate to the Task 1 Folder**:
 
-bash
-Copy code
-open index.html
-Or simply double-click the index.html file.
+   ```bash
+   cd She-Codes-React/Task 1
+
+3. **Open index.html in Your Browser**:
+
+   ```bash
+  open index.html
 
