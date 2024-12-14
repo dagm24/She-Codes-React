@@ -16,17 +16,16 @@ This is a simple, web-based calculator application that allows users to perform 
 
 ## Project Structure
 
-She-Codes-React/ 
+    She-Codes-React/ 
 
        ├── Task 1/
-
 
                 ├── index.html
 
                 ├── styles.css
 
                 ├── script.js 
-                
+
                 └── README.md 
                 
 
