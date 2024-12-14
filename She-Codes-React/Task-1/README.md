@@ -27,6 +27,10 @@ This is a simple, web-based calculator application that allows users to perform 
                 ├── script.js 
 
                 └── README.md 
+
+                └── images/
+                      
+                      └── calculator-screenshot.png
                 
 
 ---
@@ -46,4 +50,10 @@ This is a simple, web-based calculator application that allows users to perform 
 
    ```bash
    open index.html
+
+### Screenshot of the Calculator
+
+Here's how the calculator looks:
+
+![Calculator Screenshot](images/calculator-screenshot.png)
 
