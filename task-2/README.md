@@ -47,7 +47,9 @@ She-Codes-React/task-2
 
 ## Screenshot
 
-![Counter Screenshot](assets/counter application.png)
+Here's a screenshot of the counter in action:
+
+![Calculator Screenshot](src/assets/counter application.png) 
 
 
 ## Acknowledgements
